@@ -1,0 +1,7 @@
+Security Incident Review Reference
+
+The March access review incident involved an expired contractor account that retained read-only access to the staging analytics dashboard for nine days. No production data was exposed, and log review found no download activity.
+
+Corrective actions included automated contractor deactivation, weekly access certification for staging systems, and alerting when identity provider status differs from application role state.
+
+The incident severity was rated medium because access was limited to staging metadata, the account had no write permissions, and monitoring showed no evidence of data extraction.

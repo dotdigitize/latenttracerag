@@ -1,0 +1,7 @@
+Legal Contract Review Notes Reference
+
+The standard services agreement limits aggregate liability to fees paid in the prior twelve months. Any request for uncapped liability must be escalated to Legal and Finance.
+
+Data processing terms require subprocessors to be listed in the vendor portal before customer data is shared. Security addenda must include breach notification within seventy-two hours after confirmation.
+
+Non-standard indemnity language is acceptable only when the business owner documents the commercial rationale and Legal approves the final clause.

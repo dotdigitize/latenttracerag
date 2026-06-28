@@ -1,0 +1,7 @@
+Finance Risk Controls Reference
+
+Northstar Credit Union uses a quarterly risk control review for treasury operations, vendor payments, and model-assisted reporting. Any payment above 250,000 USD requires dual approval from Finance Operations and Risk Management. Exceptions must include a written business justification, the request owner, and evidence that sanctions screening completed successfully.
+
+Liquidity stress tests are reviewed monthly. The finance team compares seven-day cash coverage, counterparty concentration, and settlement timing. If seven-day coverage drops below 1.25, the treasury lead must file a mitigation plan within two business days.
+
+Model-assisted financial summaries are permitted only for internal drafting. Final numbers must be reconciled against the source ledger. The approved citation source for financial figures is the controlled ledger export, not an AI-generated summary.

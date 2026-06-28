@@ -1,0 +1,13 @@
+{
+  "case_count": 5,
+  "document_count": 10,
+  "embedding_diagnostics": {
+    "anisotropy_warning": false,
+    "embedding_spread_score": 0.822,
+    "mean_vector_similarity": 0.178,
+    "nearest_neighbor_stability": 0.7,
+    "warning": "Using deterministic lexical embedding fallback unless local Ollama embeddings are configured."
+  },
+  "metrics": {},
+  "mode": "seed"
+}

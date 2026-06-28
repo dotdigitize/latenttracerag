@@ -1,0 +1,7 @@
+Internal AI Usage Policy Reference
+
+Employees may use approved local AI tools for drafting, summarization, classification, and retrieval over approved internal documents. They must review outputs before use and remain responsible for final decisions.
+
+Restricted information, including payment card data, government identification numbers, patient records, secrets, and unreleased financial results, must not be entered into unapproved AI systems.
+
+AI-generated recommendations cannot be the sole basis for legal, medical, employment, credit, or security access decisions. Human review and source verification are required.

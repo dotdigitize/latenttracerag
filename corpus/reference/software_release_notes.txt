@@ -1,0 +1,7 @@
+Software Release Notes Reference
+
+Release 3.8.0 of Atlas Workflow introduced staged approvals, a read-only audit export, and improved retry handling for failed webhook deliveries. The release date was 2026-02-14.
+
+Release 3.8.1 was published on 2026-03-02 to fix a regression in webhook signature validation. Customers using custom webhook gateways were advised to rotate test secrets before re-enabling automated retries.
+
+Release 3.9.0 added bulk case reassignment, expanded CSV exports, and a latency dashboard for background jobs. The latency dashboard reports queue wait time, execution time, and retry count.

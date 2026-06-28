@@ -1,0 +1,7 @@
+Vendor Security Review Reference
+
+CloudForm Analytics completed a vendor security review on 2026-01-22. The review confirmed SOC 2 Type II coverage, annual penetration testing, encryption at rest, TLS 1.2 or higher in transit, and role-based administrative access.
+
+Open findings included missing evidence for quarterly access recertification and incomplete business continuity test documentation. The vendor committed to provide updated evidence by 2026-04-15.
+
+The provisional approval permits use with internal operational metadata but excludes regulated health data until the open findings are closed.

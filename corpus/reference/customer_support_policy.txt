@@ -1,0 +1,7 @@
+Customer Support Policy Reference
+
+Acme Devices provides standard support coverage from 08:00 to 18:00 local business time. Severity one incidents are acknowledged within fifteen minutes and receive hourly updates until service is restored or a workaround is confirmed.
+
+Refund requests for subscription services must be submitted within thirty days of renewal. Support agents may approve refunds below 500 USD when account records confirm non-use during the renewal period. Larger refunds require billing operations review.
+
+Agents must not request full payment card numbers, government identification numbers, or medical information in support tickets. If a customer includes sensitive information, the agent must redact it and notify the privacy queue.

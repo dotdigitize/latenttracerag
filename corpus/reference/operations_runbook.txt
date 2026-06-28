@@ -1,0 +1,7 @@
+Operations Runbook Reference
+
+When the ingestion queue exceeds 10,000 pending jobs for more than ten minutes, the on-call engineer should check worker saturation, database connection pool usage, and upstream API status. If workers are saturated, scale the worker group by two instances and reassess after fifteen minutes.
+
+For failed nightly exports, operators should inspect the export manifest, confirm object storage availability, and retry only the failed partitions. Full reruns are discouraged unless partition state is inconsistent.
+
+Incident notes must include the timeline, customer impact, mitigation steps, and follow-up owner.

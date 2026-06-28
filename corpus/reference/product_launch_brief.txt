@@ -1,0 +1,7 @@
+Product Launch Brief Reference
+
+The Orion Insights launch targets operations leaders who need queue analytics, exception trend reporting, and team workload visibility. The launch date is planned for 2026-05-20.
+
+The first release includes dashboard templates, scheduled PDF exports, and integration with Atlas Workflow. It does not include predictive staffing recommendations.
+
+Launch readiness depends on documentation signoff, security review completion, customer support training, and a rollback plan for the Atlas integration.

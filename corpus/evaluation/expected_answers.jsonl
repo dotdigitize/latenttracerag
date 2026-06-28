@@ -1,0 +1,5 @@
+{"id":"case_finance_001","expected_answer":"Payments above 250,000 USD require dual approval from Finance Operations and Risk Management.","expected_sources":["Finance Risk Controls Reference"]}
+{"id":"case_support_001","expected_answer":"Severity one incidents are acknowledged within fifteen minutes and receive hourly updates.","expected_sources":["Customer Support Policy Reference"]}
+{"id":"case_security_001","expected_answer":"It was rated medium because access was limited to staging metadata, had no write permissions, and logs showed no evidence of data extraction.","expected_sources":["Security Incident Review Reference"]}
+{"id":"case_vendor_001","expected_answer":"The provisional approval permits internal operational metadata but excludes regulated health data until open findings are closed.","expected_sources":["Vendor Security Review Reference"]}
+{"id":"case_ai_001","expected_answer":"AI-generated recommendations cannot be the sole basis for legal, medical, employment, credit, or security access decisions; human review and source verification are required.","expected_sources":["Internal AI Usage Policy Reference"]}

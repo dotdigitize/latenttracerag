@@ -1,0 +1,7 @@
+Medical Safety Triage Notes Reference
+
+The HealthDesk triage workflow is for administrative routing and does not provide diagnosis. Urgent symptoms such as chest pain, severe shortness of breath, sudden neurological weakness, or uncontrolled bleeding must be directed to emergency services immediately.
+
+Medication refill requests are routed to clinical staff when the patient reports side effects, dosage confusion, pregnancy, or a new contraindicated medication.
+
+Administrative staff should document the caller's stated concern, contact information, and routing decision. They must not provide treatment recommendations.
